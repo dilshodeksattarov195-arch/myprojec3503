@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterprocess",
+        "uuid": 18776080,
+        "checksum": "8cy8b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
